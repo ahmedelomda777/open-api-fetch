@@ -1,0 +1,10 @@
+
+> tan-stack@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.10 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.21.32.1:3000
+✓ Ready in 1062ms
+Creating turbopack project { dir: 'C:\\programming\\Next\\open api\\open-api', testMode: true }
+
